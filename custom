@@ -2408,5 +2408,3 @@ function RayfieldLibrary:LoadConfiguration()
 end
 
 return RayfieldLibrary
-
-RayfieldLibrary:Notify({Title = "Script Loaded", Content = "Current script version: 1.01 \nMatching update: N/A\nCheck update logs for changes!"})
